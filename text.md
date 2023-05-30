@@ -1,0 +1,10 @@
+Coucou amour,
+  Je pense que tu te doute deja de ce qu'il ce passe !,
+  Mais après ces 4 ans passez a tes cotés ,,
+  Je pense que j'ai compris ce dont j'avais besoin dans ma vie, ,
+  Toi , ta folie , ta passions , ton amour , ta force , tes rêves et tant de chose encore ...,
+  Je n'ai plus envie une minute de ne pas pouvoir t'appeler ma Femme !,
+  Alors aujourd'hui je te le demande pour maintenant et a jamais ,,
+  Veux tu faire de moi l'homme qui deviendras ton mari ?,
+  Et pour etre plus solennel :,
+  Veut tu m'epouser ?

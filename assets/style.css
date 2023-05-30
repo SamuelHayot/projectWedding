@@ -1,0 +1,84 @@
+*,::before, ::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height : 100%;
+    
+}
+
+
+
+
+
+/* #typedtext{
+    font-size: 25px
+} */
+
+.background{
+    margin: 0;
+    padding: 0;
+    background: #000;
+    transition:  1s;
+    height: 100%;
+}
+
+.heart{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+
+}
+.heart{
+    height: 120px;
+    width: 120px;
+}
+i{
+    color: #000;
+    font-size: 90px;
+    animation: beat 0.9s infinite;
+    text-shadow:
+        0 0 5px red,
+        0 0 20px red,
+        0 0 10px red
+    ;
+}
+@keyframes beat{
+    0%{
+        transform: scale(1);
+    }
+    20%{
+        transform: scale(1.15);
+    }
+    40%{
+        transform: scale(1.4);
+    }
+}
+
+.on {
+    background-image: url("../background_rdsh.jpg");
+    background-position: center;
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    width: 90%;
+    height: 40%;
+    font-size: 20px;
+}
+
+.test{
+    display:none
+}
+.fadeOff{
+    opacity: 0;
+    }
+
+.display-none{
+    display:none
+}
